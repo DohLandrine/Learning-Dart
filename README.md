@@ -1,1 +1,10 @@
-still at the process of learning dart, so this repo is just when i was learning, i believe by now i must have been a mobile developer 😎
+Flutter musicplayer UI Demo
+This repository contains a Flutter demo showcasing a custom musicplayer UI.
+
+Features
+-play ▶
+-time ⌚ 
+-author 
+-image of the author (which all is my image 😆)
+
+Feel free to customize this template to suit your specific project and add more details as needed. 
